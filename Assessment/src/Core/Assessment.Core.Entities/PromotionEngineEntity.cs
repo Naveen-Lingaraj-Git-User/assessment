@@ -2,7 +2,7 @@
 
 namespace Assessment.Core.Entities
 {
-    public class Class1
+    public class PromotionEngineEntity
     {
     }
 }
