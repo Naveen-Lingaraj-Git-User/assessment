@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "QySv10Vn0zjBxNb6acRK6Eo9s6C3pFDvXruO6hwjVAkK3fepn3b570y9VvspkBRkuW8o6f4SmAIcv6lR0y+pBg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\navee\\OneDrive\\Desktop\\maresk\\assessment\\Assessment\\src\\Core\\Assessment.Core.ViewModels\\Assessment.Core.ViewModels.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\navee\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\navee\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

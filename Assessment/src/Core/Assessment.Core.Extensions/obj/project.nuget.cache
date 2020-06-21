@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "4nthD6Gf0/6KrAq6CN1JZjQdi7QXUoN4qdUZxP1Tu8OH4z3gnUWXygWKtR2FY/UCrDjfn7oek2Zq8i16fmlgrA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\navee\\OneDrive\\Desktop\\maresk\\assessment\\Assessment\\src\\Core\\Assessment.Core.Extensions\\Assessment.Core.Extensions.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\navee\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\navee\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
