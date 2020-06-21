@@ -7,6 +7,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentation", "Presentatio
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assessment.Presentation.App", "Presentation\Assessment.Presentation.App\Assessment.Presentation.App.csproj", "{8BD02BC7-4FEF-4551-B274-602D7651D04A}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Core", "Core", "{1FE2EF67-8257-434A-A5DE-BADF967BD783}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assessment.Core.Interfaces", "Core\Assessment.Core.Interfaces\Assessment.Core.Interfaces.csproj", "{016265CE-DC0F-4CE3-B15B-2DC53D7D22CF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -32,8 +36,21 @@ Global
 		{8BD02BC7-4FEF-4551-B274-602D7651D04A}.Release|x64.Build.0 = Release|Any CPU
 		{8BD02BC7-4FEF-4551-B274-602D7651D04A}.Release|x86.ActiveCfg = Release|Any CPU
 		{8BD02BC7-4FEF-4551-B274-602D7651D04A}.Release|x86.Build.0 = Release|Any CPU
+		{016265CE-DC0F-4CE3-B15B-2DC53D7D22CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{016265CE-DC0F-4CE3-B15B-2DC53D7D22CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{016265CE-DC0F-4CE3-B15B-2DC53D7D22CF}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{016265CE-DC0F-4CE3-B15B-2DC53D7D22CF}.Debug|x64.Build.0 = Debug|Any CPU
+		{016265CE-DC0F-4CE3-B15B-2DC53D7D22CF}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{016265CE-DC0F-4CE3-B15B-2DC53D7D22CF}.Debug|x86.Build.0 = Debug|Any CPU
+		{016265CE-DC0F-4CE3-B15B-2DC53D7D22CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{016265CE-DC0F-4CE3-B15B-2DC53D7D22CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{016265CE-DC0F-4CE3-B15B-2DC53D7D22CF}.Release|x64.ActiveCfg = Release|Any CPU
+		{016265CE-DC0F-4CE3-B15B-2DC53D7D22CF}.Release|x64.Build.0 = Release|Any CPU
+		{016265CE-DC0F-4CE3-B15B-2DC53D7D22CF}.Release|x86.ActiveCfg = Release|Any CPU
+		{016265CE-DC0F-4CE3-B15B-2DC53D7D22CF}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{8BD02BC7-4FEF-4551-B274-602D7651D04A} = {97A30B38-313D-4BD7-9699-4DB9AE4BF977}
+		{016265CE-DC0F-4CE3-B15B-2DC53D7D22CF} = {1FE2EF67-8257-434A-A5DE-BADF967BD783}
 	EndGlobalSection
 EndGlobal
