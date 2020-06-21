@@ -10,3 +10,5 @@
 /Assessment/Core/Assessment.Core.Entities/bin/*
 /Assessment/Core/Assessment.Core.Extensions/obj/*
 /Assessment/Core/Assessment.Core.Extensions/bin/*
+/Assessment/Infrastructure/Assessment.Infrastructure.Persistence/obj/*
+/Assessment/Infrastructure/Assessment.Infrastructure.Persistence/bin/*
