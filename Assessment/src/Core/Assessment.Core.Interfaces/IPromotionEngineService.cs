@@ -7,6 +7,6 @@ namespace Assessment.Core.Interfaces
 {
     public interface IPromotionEngineService
     {
-        PromotionEngineViewModel ProcessOrder(IList<CartItemViewModel> cartItems);
+        PromotionEngineViewModel ProcessCheckout(IList<CartItemViewModel> cartItems);
     }
 }

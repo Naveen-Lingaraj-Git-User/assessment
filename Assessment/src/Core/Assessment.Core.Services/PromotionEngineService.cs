@@ -10,7 +10,7 @@ namespace Assessment.Core.Services
 {
     public class PromotionEngineService : BaseService, IPromotionEngineService
     {
-        public PromotionEngineViewModel ProcessOrder(IList<CartItemViewModel> cartItems)
+        public PromotionEngineViewModel ProcessCheckout(IList<CartItemViewModel> cartItems)
         {
             return new PromotionEngineViewModel
             {
