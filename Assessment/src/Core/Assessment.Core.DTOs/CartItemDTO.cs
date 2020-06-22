@@ -10,7 +10,7 @@ namespace Assessment.Core.DTOs
     public class CartItemDTO
     {
         public int ItemCount { get; set; }
-        public char Item { get; set; }
+        public string Item { get; set; }
         public int Price { get; set; }
     }
 }
