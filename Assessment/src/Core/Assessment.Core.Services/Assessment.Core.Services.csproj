@@ -10,6 +10,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\Assessment.Core.Enums\Assessment.Core.Enums.csproj" />
     <ProjectReference Include="..\Assessment.Core.Interfaces\Assessment.Core.Interfaces.csproj" />
   </ItemGroup>
 

@@ -1,4 +1,5 @@
 ﻿using Assessment.Core.Entities;
+using Assessment.Core.Enums;
 using AutoMapper;
 using System;
 using System.Collections.Generic;
@@ -10,7 +11,7 @@ namespace Assessment.Core.DTOs
     public class CartItemDTO
     {
         public int ItemCount { get; set; }
-        public string Item { get; set; }
+        public Items Item { get; set; }
         public int Price { get; set; }
     }
 }

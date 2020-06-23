@@ -6,6 +6,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Assessment.Core.DTOs\Assessment.Core.DTOs.csproj" />
+    <ProjectReference Include="..\Assessment.Core.Enums\Assessment.Core.Enums.csproj" />
   </ItemGroup>
 
 </Project>

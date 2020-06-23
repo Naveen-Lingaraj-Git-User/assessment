@@ -1,12 +1,11 @@
-﻿using Assessment.Core.ViewModels;
-using System;
-using System.Collections;
+﻿using Assessment.Core.Enums;
+using Assessment.Core.ViewModels;
 using System.Collections.Generic;
 
 namespace Assessment.Core.Interfaces
 {
     public interface IPromotionEngineService
     {
-        PromotionEngineViewModel ProcessCheckout(IList<CartItemViewModel> cartItems);
+        PromotionEngineViewModel ProcessCheckout(IList<CartItemViewModel> cartItems, PromotionType[] promotionTypes);
     }
 }

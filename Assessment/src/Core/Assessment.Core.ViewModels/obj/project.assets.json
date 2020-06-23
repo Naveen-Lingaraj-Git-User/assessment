@@ -161,6 +161,7 @@
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
           "Assessment.Core.Entities": "1.0.0",
+          "Assessment.Core.Enums": "1.0.0",
           "AutoMapper": "9.0.0"
         },
         "compile": {
@@ -178,6 +179,16 @@
         },
         "runtime": {
           "bin/placeholder/Assessment.Core.Entities.dll": {}
+        }
+      },
+      "Assessment.Core.Enums/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/Assessment.Core.Enums.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Assessment.Core.Enums.dll": {}
         }
       }
     }
@@ -964,11 +975,17 @@
       "type": "project",
       "path": "../Assessment.Core.Entities/Assessment.Core.Entities.csproj",
       "msbuildProject": "../Assessment.Core.Entities/Assessment.Core.Entities.csproj"
+    },
+    "Assessment.Core.Enums/1.0.0": {
+      "type": "project",
+      "path": "../Assessment.Core.Enums/Assessment.Core.Enums.csproj",
+      "msbuildProject": "../Assessment.Core.Enums/Assessment.Core.Enums.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETStandard,Version=v2.0": [
       "Assessment.Core.DTOs >= 1.0.0",
+      "Assessment.Core.Enums >= 1.0.0",
       "NETStandard.Library >= 2.0.3"
     ]
   },
@@ -1000,6 +1017,9 @@
           "projectReferences": {
             "C:\\Users\\navee\\OneDrive\\Desktop\\maresk\\assessment\\Assessment\\src\\Core\\Assessment.Core.DTOs\\Assessment.Core.DTOs.csproj": {
               "projectPath": "C:\\Users\\navee\\OneDrive\\Desktop\\maresk\\assessment\\Assessment\\src\\Core\\Assessment.Core.DTOs\\Assessment.Core.DTOs.csproj"
+            },
+            "C:\\Users\\navee\\OneDrive\\Desktop\\maresk\\assessment\\Assessment\\src\\Core\\Assessment.Core.Enums\\Assessment.Core.Enums.csproj": {
+              "projectPath": "C:\\Users\\navee\\OneDrive\\Desktop\\maresk\\assessment\\Assessment\\src\\Core\\Assessment.Core.Enums\\Assessment.Core.Enums.csproj"
             }
           }
         }

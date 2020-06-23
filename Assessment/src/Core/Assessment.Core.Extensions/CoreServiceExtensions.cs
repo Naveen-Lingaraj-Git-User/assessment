@@ -12,7 +12,7 @@ namespace Assessment.Core.Extensions
         {
             var configuration = new MapperConfiguration(config =>
             {
-                config.AddMaps(new[] { "Assessment.Core.DTOs", "Assessment.Core.Entities" });
+                config.AddMaps(new[] { "Assessment.Core.DTOs", "Assessment.Core.Entities", "Assessment.Core.ViewModels" });
             });
             var mapper = configuration.CreateMapper();
             services.AddSingleton(mapper);
