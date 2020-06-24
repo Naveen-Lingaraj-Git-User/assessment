@@ -1,0 +1,8 @@
+C:\Users\navee\OneDrive\Desktop\maresk\assessment\Assessment\src\Core\Assessment.Core.Enums\bin\Debug\netstandard2.0\Assessment.Core.Enums.deps.json
+C:\Users\navee\OneDrive\Desktop\maresk\assessment\Assessment\src\Core\Assessment.Core.Enums\bin\Debug\netstandard2.0\Assessment.Core.Enums.dll
+C:\Users\navee\OneDrive\Desktop\maresk\assessment\Assessment\src\Core\Assessment.Core.Enums\bin\Debug\netstandard2.0\Assessment.Core.Enums.pdb
+C:\Users\navee\OneDrive\Desktop\maresk\assessment\Assessment\src\Core\Assessment.Core.Enums\obj\Debug\netstandard2.0\Assessment.Core.Enums.AssemblyInfoInputs.cache
+C:\Users\navee\OneDrive\Desktop\maresk\assessment\Assessment\src\Core\Assessment.Core.Enums\obj\Debug\netstandard2.0\Assessment.Core.Enums.AssemblyInfo.cs
+C:\Users\navee\OneDrive\Desktop\maresk\assessment\Assessment\src\Core\Assessment.Core.Enums\obj\Debug\netstandard2.0\Assessment.Core.Enums.csproj.CoreCompileInputs.cache
+C:\Users\navee\OneDrive\Desktop\maresk\assessment\Assessment\src\Core\Assessment.Core.Enums\obj\Debug\netstandard2.0\Assessment.Core.Enums.dll
+C:\Users\navee\OneDrive\Desktop\maresk\assessment\Assessment\src\Core\Assessment.Core.Enums\obj\Debug\netstandard2.0\Assessment.Core.Enums.pdb
